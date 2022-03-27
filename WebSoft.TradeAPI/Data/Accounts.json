@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 0,
+    "Firstname": "Mcclain",
+    "Lastname": "Dunlap",
+    "email": "mcclaindunlap@strozen.com",
+    "Country": "UK",
+    "PrimaryCurrency": "GBP",
+    "AvailableBalance": 100.00,
+    "IsActive": true
+  },
+  {
+    "Id": 1,
+    "Firstname": "Frye",
+    "Lastname": "Lamb",
+    "email": "fryelamb@strozen.com",
+    "Country": "UK",
+    "PrimaryCurrency": "GBP",
+    "AvailableBalance": 200.00,
+    "IsActive": true
+  },
+  {
+    "Id": 2,
+    "Firstname": "Angelica",
+    "Lastname": "James",
+    "email": "angelicajames@strozen.com",
+    "Country": "UK",
+    "PrimaryCurrency": "GBP",
+    "AvailableBalance": 50.00,
+    "IsActive": true
+  },
+  {
+    "Id": 3,
+    "Firstname": "Lindsay",
+    "Lastname": "Reynolds",
+    "email": "lindsayreynolds@strozen.com",
+    "PrimaryCurrency": "GBP",
+    "AvailableBalance": 600.00,
+    "IsActive": true
+  },
+  {
+    "Id": 4,
+    "Firstname": "Hoffman",
+    "Lastname": "Gray",
+    "email": "hoffmangray@strozen.com",
+    "PrimaryCurrency": "GBP",
+    "AvailableBalance": 500.00,
+    "IsActive": true
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "AccountId": 0,
+    "InstitutionId": 0,
+    "Currency": "GBP",
+    "InvestmentAmount": 10.00
+  },
+  {
+    "AccountId": 0,
+    "InstitutionId": 1,
+    "Currency": "USD",
+    "InvestmentAmount": 10.00
+  },
+  {
+    "AccountId": 0,
+    "InstitutionId": 2,
+    "Currency": "USD",
+    "InvestmentAmount": 20.00
+  },
+  {
+    "AccountId": 1,
+    "InstitutionId": 0,
+    "Currency": "GBP",
+    "InvestmentAmount": 10.00
+  },
+  {
+    "AccountId": 1,
+    "InstitutionId": 1,
+    "Currency": "USD",
+    "InvestmentAmount": 50.00
+  },
+  {
+    "AccountId": 1,
+    "InstitutionId": 2,
+    "Currency": "USD",
+    "InvestmentAmount": 20.00
+  }
+]
